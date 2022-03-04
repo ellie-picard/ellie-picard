@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ellie-picard
+- 👀 I’m interested in all things front-end web development!
+- 🌱 I’m currently learning JavaScript
+- 📫 Contact me at elliepicard7@gmail.com
